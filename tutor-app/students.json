@@ -1,0 +1,132 @@
+{
+  "student_001": {
+    "id": "student_001",
+    "name": "Alex",
+    "level": "medium",
+    "subject_stats": {
+      "math": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      },
+      "science": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      },
+      "history": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      }
+    },
+    "profile": {
+      "grade": "",
+      "school": "",
+      "board": "",
+      "target_exam": "",
+      "preferred_language": "English",
+      "study_hours_per_week": 0,
+      "learning_style": "mixed",
+      "guardian_name": ""
+    }
+  },
+  "student_76d4324a": {
+    "id": "student_76d4324a",
+    "name": "Ashish",
+    "level": "medium",
+    "subject_stats": {
+      "math": {
+        "weak_topics": [
+          "Algebra",
+          "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+          "Pair of Linear Equations in Two Variables",
+          "REAL NUMBERS",
+          "algebra",
+          "intigration"
+        ],
+        "quizzes_taken": 8
+      },
+      "science": {
+        "weak_topics": [
+          "Gravity"
+        ],
+        "quizzes_taken": 1
+      },
+      "history": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      }
+    },
+    "profile": {
+      "grade": "std-10",
+      "school": "",
+      "board": "cbse",
+      "target_exam": "",
+      "preferred_language": "English",
+      "study_hours_per_week": 0,
+      "learning_style": "mixed",
+      "guardian_name": ""
+    }
+  },
+  "student_8e201ac8": {
+    "id": "student_8e201ac8",
+    "name": "Ashish",
+    "level": "medium",
+    "profile": {
+      "grade": "std-10",
+      "school": "",
+      "board": "cbse",
+      "target_exam": "",
+      "preferred_language": "English",
+      "study_hours_per_week": 6,
+      "learning_style": "mixed",
+      "guardian_name": ""
+    },
+    "subject_stats": {
+      "math": {
+        "weak_topics": [
+          "Algebra"
+        ],
+        "quizzes_taken": 1
+      },
+      "science": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      },
+      "history": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      }
+    }
+  },
+  "student_59b3a802": {
+    "id": "student_59b3a802",
+    "name": "Ashish",
+    "level": "medium",
+    "profile": {
+      "grade": "std-10",
+      "school": "",
+      "board": "cbse",
+      "target_exam": "",
+      "preferred_language": "English",
+      "study_hours_per_week": 6,
+      "learning_style": "mixed",
+      "guardian_name": ""
+    },
+    "subject_stats": {
+      "math": {
+        "weak_topics": [
+          "Algebra",
+          "Trignometry"
+        ],
+        "quizzes_taken": 5
+      },
+      "science": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      },
+      "history": {
+        "weak_topics": [],
+        "quizzes_taken": 0
+      }
+    }
+  }
+}

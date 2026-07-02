@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+frontend/.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Build
+frontend/dist/
+dist/
+
+# VS Code
+.vscode/
+
+# ChromaDB
+chroma_db/
+chroma_db_rebuilt/
